@@ -1,0 +1,365 @@
+.div1{
+    background-color: rgb(4, 105, 55);
+    height: 70px;
+  margin-top: -50px;
+  margin-left: 0px;
+  margin-left: 0px;
+}
+.input1{
+    border-radius: 15px;
+    height: 35px;
+    width: 500px;
+    position: relative;
+    left:25%;
+    top: -100px;
+
+}
+.div2{
+    background-color: silver;
+    margin-top: -20px;
+    
+}
+.Master{
+    font-size: 400%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.div3{
+    background-color: rgb(236, 228, 228);
+    margin-top: -20px;
+}
+.hover:hover{
+    color: white;
+}
+.hover1:hover{
+    color: white;
+}
+.hover{
+    position: relative;
+    left: 4%;
+}
+.hover1{
+    position: relative;
+    left: 2%;
+}
+.fieldset1{
+    width: 550px;
+    background-color: white;
+    position: relative;
+    left: 23%;
+    top: -1000px;
+    height: 200px;
+    margin-top: -3px;
+}
+.blue{
+    position: relative;
+    top: -15px;
+    color: rgb(157, 157, 247);
+}
+.input2{
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: -30px;
+    background-color: skyblue;
+}
+.hr1,.hr2{
+    position: relative;
+    top: -30px;
+}
+.input2::placeholder{
+    position: relative;
+    top: -40px;
+}
+.button1{
+    position: relative;
+    left: 80%;
+    width: 90px;
+    top: -25px;
+    height: 30px;
+    background-color: green;
+    font-size: larger;
+    color: white;
+}
+.fieldset2{
+    width: 606px;
+    position: relative;
+    left: 23%;
+    height: 600px;
+    top: -989px;
+    background-color: white;
+
+}
+.img1{
+    width: 7%;
+}
+.Rani{
+    position: relative;
+    left: 8%;
+    top: -60px;
+    color: blue;
+}
+.with{
+    position: relative;
+    left: 29%;
+    top: -96px;
+   color: rgb(143, 139, 139);
+}
+.Arup{
+    position: relative;
+    left: 35%;
+    top: -135px;
+    color: rgb(127, 127, 192);
+}
+.and{
+    position: relative;
+    left: 48%;
+    top: -174px;
+    color: rgb(143, 139, 139);
+}
+.others{
+    position: relative;
+    left: 53%;
+    top: -212px;
+    color: rgb(127, 127, 192) ;
+}
+#time{
+    position: relative;
+    left: 8%;
+    top: -235px;
+}
+.img2{
+    width: 100%;
+    height: 370px;
+    position: relative;
+    top: -245px;
+}
+.Like{
+    position: relative;
+    top: -250px;
+    color:rgb(127, 127, 192) ;
+    font-size: larger;
+}
+.Comment{
+    position: relative;
+    left: 9%;
+    top: -290px;
+    color: rgb(127, 127, 192);
+    font-size: larger;
+}
+.Share{
+    position: relative;
+    left: 24%;
+    top: -330px;
+    color: rgb(127, 127, 192);
+    font-size: larger;
+}
+.hr3{
+    position: relative;
+    top: -335px;
+}
+.Amit{
+    position: relative;
+    top: -340px;
+    font-size: larger;
+    color: rgb(127, 127, 192);
+}
+.and2{
+position: relative;
+left: 14%;
+top: -380px;
+font-size: larger;
+color: rgb(143, 139, 139);
+}
+.others2{
+    font-size: larger;
+    position: relative;
+    left: 20%;
+    top: -421px;
+    color: rgb(127, 127, 192);
+}
+.like2{
+    font-size: larger;
+    position: relative;
+    left: 32%;
+    top: -462px;
+    color: rgb(143, 139, 139);
+}
+.img3{
+    width: 5%;
+    position: relative;
+    top: -450px;
+}
+.input3{
+    position: relative;
+    left: 3%;
+    top: -458px;
+}
+.div4{
+    width: 200px;
+    height: 450px;
+    background-color: white;
+    position: relative;
+    left: 58%;
+    top: -1840px;
+}
+.Home{
+    position: relative;
+    top: -255px;
+    left: 58%;
+    font-size: 20px;
+    color: white;
+}
+.Profile{
+    position: relative;
+    top: -159px;
+    left: 53%;
+    font-size: 20px;
+    color: white;
+}
+.vertical{
+    font-size: x-large;
+    position: relative;
+    left: 57%;
+    top: -208px;
+    color: white;
+}
+.hr4{
+    width: 90%;
+    position: relative;
+    top: -7px;
+}
+.pages{
+    position: relative;
+    left: 3%;
+    color: rgb(143, 139, 139);
+
+}
+.See1{
+    font-size: larger;
+    position: relative;
+    bottom: -11px;
+    left: 3%;
+}
+.button2{
+    position: relative;
+    left: 50%;
+    height: 30px;
+    top: -40px;
+    background-color: green;
+    color: white;
+}
+.hr5{
+    width: 90%;
+    position: relative;
+    top: -32px;
+}
+.Week{
+    font-size: medium;
+    position: relative;
+    top: -40px;
+    left: 3%;
+    color: rgb(143, 139, 139);
+}
+.See2{
+    position: relative;
+    left: 3%;
+    top: -19px;
+    font-size: large;
+}
+.hr6{
+    width: 90%;
+    position: relative;
+    top: -26px;
+}
+.Recent{
+    position: relative;
+    top: -35px;
+    left: 3%;
+    font-size: large;
+    color:  rgb(143, 139, 139);
+}
+.See3{
+    position: relative;
+    left: 3%;
+    font-size: large;
+    top: -20px;
+}
+.hr7{
+    width: 90%;
+    position: relative;
+    top: -34px;
+}
+.Posted{
+    font-size: large;
+    position: relative;
+    left: 3%;
+    top: -45px;
+    color: rgb(143, 139, 139);
+}
+.See4{
+    position: relative;
+    left: 3%;
+    font-size: large;
+}
+.div5{
+    position: relative;
+    left: 58%;
+    width: 200px;
+    height: 360px;
+    top: -1825px;
+    background-color: white;
+
+}
+.hr8{
+position: relative;
+bottom: -20px;
+width: 90%;
+}
+.Trending{
+    position: relative;
+    left: 3%;
+    font-size: x-large;
+    bottom: -4px;
+    color: rgb(143, 139, 139);
+}
+.See5{
+    font-size: large;
+    position: relative;
+    left: 3%;
+    bottom: -8px;
+}
+.hr9{
+    position: relative;
+    width: 90%;
+}
+.Suggested{
+    font-size: x-large;
+    color: rgb(143, 139, 139);
+    position: relative;
+    top: -17px;
+    left: 3%;
+}
+.See6{
+    font-size: large;
+    position: relative;
+    left: 3%;
+}
+.hr10{
+    position: relative;
+    width: 90%;
+    top: -10px;
+}
+.People{
+    font-size: x-large;
+    position: relative;
+    top: -25px;
+    left: 3%;
+    color: rgb(143, 139, 139);
+}
+.See7{
+    font-size: large;
+    position: relative;
+    left: 3%;
+    top: -10px;
+}
